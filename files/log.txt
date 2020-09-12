@@ -1,0 +1,15 @@
+2020-09-12 15:54:45.596788 hash_generator () {}
+2020-09-12 16:01:04.628636 hash_generator () {}
+2020-09-12 16:01:21.040309 hash_generator ('files/text.txt',) {}
+2020-09-12 16:03:12.085077 hash_generator ('files/text.txt',) {}
+2020-09-12 16:03:12.085077 hash_generator () {}
+2020-09-12 16:04:17.675579 hash_generator () {}
+2020-09-12 16:04:17.676577 hash_generator () {}
+2020-09-12 16:04:28.482822 hash_generator ('files/text.txt',) {}
+2020-09-12 16:04:28.483822 hash_generator () {}
+2020-09-12 16:04:49.550094 hash_generator () {'path': 'files/text.txt'}
+2020-09-12 16:04:49.550094 hash_generator () {}
+2020-09-12 16:05:26.087989 hash_generator () {'path': 'files/text.txt'}
+2020-09-12 16:05:26.087989 hash_generator () {}
+2020-09-12 16:05:53.265163 hash_generator ('files/text.txt',) {}
+2020-09-12 16:06:14.584156 hash_generator ('files/text.txt',) {}
